@@ -1,4 +1,5 @@
 # JavaScriptドキュメント
+![](https://img.shields.io/github/forks/kelp-of-truth/JS-Document?style=social)![](https://img.shields.io/github/stars/kelp-of-truth/JS-Document?&style=social)
 
 [目次]
 - [Hello world!]()
