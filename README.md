@@ -2,14 +2,15 @@
 ![](https://img.shields.io/github/last-commit/kelp-of-truth/JS-Document) ![](https://img.shields.io/github/forks/kelp-of-truth/JS-Document?style=social) ![](https://img.shields.io/github/stars/kelp-of-truth/JS-Document?&style=social)
 
 [目次]
-- [Hello world!](https://github.com/kelp-of-truth/JS-Document/tree/main/hello-world)
-- [計算式]()
+- [Hello world!](./hello-world/README.md)
+- [計算式](./math/README.md)
 - [条件分岐]()
 - [反復処理]()
 ---
 
-**JavaScriptオンラインエディタ(Node.js)**<br/>
-[Replit](https://replit.com/languages/nodejs)<br>
+JavaScriptオンラインエディタ(Node.js)<br>
+
+[Replit](https://replit.com/languages/nodejs)
 ---
 ## Replitで入力値を取得する方法
 Replitでコンソールの入力値を取得するには`prompt()`関数を使います。<br/><br/>
