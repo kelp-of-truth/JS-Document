@@ -106,7 +106,7 @@ console.log(hello);
 
 
 
-[<前のページ](../) \[[1](./)\] [次のページ>](./)
+[<前のページ](https://github.com/kelp-of-truth/JS-Document) \[[1](./)\] [次のページ>](./)
 
 
 [^1]: 本当はNode.jsですが、ここではJavaScriptと呼びます。
