@@ -18,6 +18,7 @@ var x=1;
 var y=1;
 // x+yの値を出力
 console.log(x+y);
+```
 ***出力***
 ```
 2
