@@ -5,8 +5,12 @@
 - [Hello world!](./hello-world/README.md)
 - [計算式](./math/README.md)
 - [文字と変数の混ざった値の出力](./extra1/README.md)
+- [関数の宣言]()
 - [条件分岐]()
-- [反復処理]()
+- [反復処理と配列]()
+- [classの宣言]()
+- [JSONの読み書き]()
+- [APIの取得]()
 ---
 
 JavaScriptオンラインエディタ(Node.js)<br>
