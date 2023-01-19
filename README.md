@@ -4,6 +4,7 @@
 [目次]
 - [Hello world!](./hello-world/README.md)
 - [計算式](./math/README.md)
+- [文字と変数の混ざった値の出力](./extra1/README.md)
 - [条件分岐]()
 - [反復処理]()
 ---
