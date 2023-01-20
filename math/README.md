@@ -75,5 +75,5 @@ console.log(x+"1");
 <br><br>
 
 
-[<前のページ](../hello-world) \[[2](./)\] [次のページ>](./extra1/README.md)
+[<前のページ](../hello-world) \[[2](./)\] [次のページ>](../extra1/README.md)
 
