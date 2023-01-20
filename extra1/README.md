@@ -39,7 +39,7 @@ console.log(`1 + 2 = ${x+y}`);
 `
 ``
 内に`${変数名や計算などの処理}`というように書くことができます。詳しく知りたい人は、[テンプレートリテラル (テンプレート文字列) - JavaScript | MDN](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Template_literals)こちらを見てください。
-
+<br><br>
 
 
 
