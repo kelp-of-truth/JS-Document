@@ -43,4 +43,4 @@ console.log(`1 + 2 = ${x+y}`);
 
 
 
-[<前のページ](../math/README.md) \[[2](./)\] [次のページ>](../function/README.md)
+[<前のページ](../math/README.md) \[[3](./)\] [次のページ>](../function/README.md)
