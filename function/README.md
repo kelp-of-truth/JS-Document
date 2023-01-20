@@ -52,7 +52,7 @@ Hello world!
 
 
 
-[<前のページ](../extra1/REAME.md) \[[4](./)\] [次のページ>](./if/README.md)
+[<前のページ](../extra1/README.md) \[[4](./)\] [次のページ>](../if/README.md)
 
 
 
