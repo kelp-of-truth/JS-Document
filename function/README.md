@@ -48,7 +48,11 @@ hello();
 Hello world!
 ```
 これは、helloという関数を実行して、hello関数内で`console.log()`を使い「Hello world!」を出力している問いうものです。つまり、helloさんに「Hello world!」といえと言ってる...てこと...？
+<br><br>
 
+
+
+[<前のページ](../hello-world) \[[2](./)\] [次のページ>](./if/README.md)
 
 
 
